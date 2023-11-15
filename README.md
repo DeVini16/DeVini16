@@ -2,9 +2,6 @@
 
 ### Seja muito bem vindo! ⚡
 
-
-
-- Cursando Sistemas de informação (3º)
-- Trabalho no Portal Solar como Dev
-- buscando sempre aprender mais
+- Cursando Sistemas de informação (4º)
+- Amante da tecnologia e aspirante em desenvolvimento!
 
