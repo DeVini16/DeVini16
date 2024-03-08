@@ -4,5 +4,5 @@
 
 - Cursando Sistemas de informação (5º)
 - Amante da tecnologia e aspirante em desenvolvimento!
-- Atualmente estou trabalhando como desenvolvedor Front-End
+- Atualmente estou trabalhando como Desenvolvedor Front-End
 
