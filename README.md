@@ -6,6 +6,7 @@
 - No momento estou atuando como estagiário na área de Desenvolvimento de Software
 
 <img src="https://raw.githubusercontent.com/DIEGOHORVATTI/DIEGOHORVATTI/main/public/gif/hrColorAnimation.gif" width=50%>
+<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width=100%>
 <div>
   <a href="https://github.com/DeVini16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maevesystem&layout=compact&langs_count=7&theme=radical"/>
@@ -20,7 +21,6 @@
 
   <img align="center" alt="Maeve-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maeve-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <p> - </p>
   <img align="center" alt="Maeve-CSS" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
   <img align="center" alt="Maeve-CSS" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
 </div>
