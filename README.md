@@ -6,7 +6,6 @@
 - No momento estou atuando como estagiário na área de Desenvolvimento de Software
 
 <img src="https://raw.githubusercontent.com/DIEGOHORVATTI/DIEGOHORVATTI/main/public/gif/hrColorAnimation.gif" width=50%>
-<img src="https://user-images.githubusercontent.com/74038190/221352987-68da234d-4d62-4e9d-9d7f-098dc657c2dc.gif" width=100%>
 <div>
   <a href="https://github.com/DeVini16">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maevesystem&layout=compact&langs_count=7&theme=radical"/>
