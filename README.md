@@ -1,7 +1,7 @@
-### Hello! 🪄 .
+### Hello! 🪄 
 <h2>Me chamo Vinicius.</h2>
 
-- Atualmente estudo Sistemas de informação e estou no 6° semestre.
+- Atualmente cursando Sistemas de informação 6°.
 
 - No momento estou atuando como estagiário na área de Desenvolvimento de Software
 
