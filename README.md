@@ -1,7 +1,7 @@
 ### Hello! 🪄 
-<h2>Me chamo Vinicius.</h2>
+<h2>Me chamo Vinicius</h2>
 
-- Atualmente cursando Sistemas de informação 6°.
+- Atualmente cursando Sistemas de informação 6°
 
 - No momento estou atuando como estagiário na área de Desenvolvimento de Software
 
@@ -24,6 +24,3 @@
   <img align="center" alt="Maeve-CSS" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
 </div>
 <img src="https://pa1.aminoapps.com/6467/434523dd5371dab33fa62e00b5bb46defe306f0c_00.gif" width="15%">
-
-
-![](https://komarev.com/ghpvc/?username=maevesystem&color=blue&style=flat-square&label=PROFILE+VIEWS)
