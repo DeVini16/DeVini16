@@ -20,7 +20,7 @@
 
   <img align="center" alt="Maeve-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maeve-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Maeve-CSS" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
   <img align="center" alt="Maeve-CSS" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif">
+  <img align="center" alt="Maeve-CSS" height="40" width="40" src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif">
 </div>
 <img src="https://pa1.aminoapps.com/6467/434523dd5371dab33fa62e00b5bb46defe306f0c_00.gif" width="15%">
