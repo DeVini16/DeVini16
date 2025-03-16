@@ -1,14 +1,11 @@
 ### Hello! 🪄 
 <h2>Me chamo Vinicius</h2>
 
-- Atualmente cursando Sistemas de informação 6°
+- Desenvolvedor Front-end Júnior
+- Atualmente cursando Sistemas de informação 7°
 
-- No momento estou atuando como estagiário na área de Desenvolvimento de Software
 
-<div>
-  <a href="https://github.com/DeVini16">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maevesystem&layout=compact&langs_count=7&theme=radical"/>
-</div>
+- Aproveite para dar uma olhada nos Projetos! 😁
 
 
 <div> 
